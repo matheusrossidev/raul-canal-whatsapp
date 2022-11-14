@@ -4,4 +4,4 @@
 <img src="https://i.imgur.com/ugE1YVd.png"/>
 
 # Clone este repositório
-$ git clone https://github.com/matheusrossidev/raul-canal-whatsapp/
+$ git clone <https://github.com/matheusrossidev/raul-canal-whatsapp/>
